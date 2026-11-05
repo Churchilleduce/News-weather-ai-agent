@@ -95,4 +95,4 @@ For other data sources (live scores, another weather provider), write a new `@fu
 
 ## Author
 Built by **Churchill Educe**
-[LinkedIn](https://linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/churchill-educe-888536174/)
